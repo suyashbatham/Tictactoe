@@ -1,0 +1,19 @@
+              # Structure
+              # 1.Input for loop
+              # 2.broad structure
+              # 3.input for 9 values
+              # 4.user move
+              # 5.computer move
+              # 6.is any free space
+              # 7.winner
+              # 8.post work after the winner
+
+        # Algorithm
+        # 1.input
+        # 2.Design the board
+        # 3.is free space
+        # 4.is winner
+        # 5.player move
+        # 6.computer move
+        # 7.main logic
+        # 8.interface
